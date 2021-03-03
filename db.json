@@ -7,9 +7,9 @@
       "password": "asdf1234"
     },
     {
-      "username": "Nevena",
+      "username": "nevena19",
       "email": "ndddd@gmail.com",
-      "password": "Kovacevic123",
+      "password": "djcanc123",
       "id": 2
     },
     {
@@ -17,12 +17,6 @@
       "email": "djakovic@gmail.com",
       "password": "klackalica1234",
       "id": 3
-    },
-    {
-      "username": "Marija",
-      "email": "mara23@gmail.com",
-      "password": "suncevadolina2",
-      "id": 4
     }
   ],
   "products": [
